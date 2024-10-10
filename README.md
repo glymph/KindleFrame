@@ -1,9 +1,10 @@
 # KindleFrame - using an Amazon Kindle to display images like a photo frame
 To install, copy the contents of the "server" directory to a location that is accessible to the Kindle via http or https.
-Jailbreak the Kindle and install the screensaver hack, then copy the contents of "client" to the kindle's "extensions" directory via USB.
+Jailbreak the Kindle and install KUAL and the screensaver hack, then copy the contents of "client" to the kindle's "extensions" directory via USB.
 
 [Jailbreak instructions](https://www.mobileread.com/forums/showthread.php?t=186645)
-[Screensavers hack](hack: https://www.mobileread.com/forums/showthread.php?t=195474)
+[KUAL](https://www.mobileread.com/forums/showthread.php?t=203326)
+[Screensavers hack](https://www.mobileread.com/forums/showthread.php?t=195474)
 
 
 To enable the OnlineScreenSaver, deactivate the Screensaver Hack, run an update of the OnlineScreenSaver, turn off wifi and press the power button. Note that the device should remain plugged in to power to update the image.
