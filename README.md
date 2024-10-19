@@ -17,6 +17,8 @@ converting images:
 example commands
 
 `convert Eiffel_Tower.png -strip -colorspace gray -resize "600x800>" -depth 8 -colors 16 +dither -type palette -quality 75 ../images/Eiffel_Tower.png`
+
 Alternatively, convert a directory of files:
+
 `for i in * ; do convert "$i" -strip -colorspace gray -resize "600x800>" -depth 8 -colors 16 +dither -type palette -quality 75 /var/www/html/kindlephotos/images/"$i" ; done`
 
